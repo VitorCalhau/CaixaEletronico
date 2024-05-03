@@ -1,3 +1,3 @@
 # CaixaEletronico
 
-Caixa eletronico básico, ainda implementando exeption handlers
+Caixa eletronico básico, ainda implementando exception handlers
